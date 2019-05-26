@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ssivaguru.github.io/react-gh-pages",
+  "homepage": "http://ssivaguru.github.io/resume",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
